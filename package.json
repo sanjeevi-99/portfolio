@@ -1,6 +1,6 @@
 {
-  "name": "markhor",
-  "version": "0.1.0",
+  "name": "sanjeevi",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "@splinetool/react-spline": "^2.2.3",

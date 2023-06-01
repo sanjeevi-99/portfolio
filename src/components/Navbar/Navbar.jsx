@@ -46,7 +46,7 @@ function Navbar() {
         <div className="nav">
           <Link to="Home" offset={-150}>
             <h2>
-              Sanjeevi<span>&nbsp;K</span>
+              Sanjeevi's<span>&nbsp;Portfolio</span>
             </h2>
           </Link>
           <ul>

@@ -23,7 +23,7 @@ function About() {
         </div>
         <div  className="right-content">
         <h2>I'm Sanjeevi</h2>
-        <p>Hi, my name is Sanjeevi K and I have experience working with sophisticated applications as a full stack developer intern. I'm familiar with both front-end and back-end technologies. I'm enthusiastic about developing modern web applications that are as user-friendly as possible. </p>
+        <p>Hello, my name is Sanjeevi K, and I have expertise working with advanced programmes as a full stack developer intern. I'm familiar with both front-end and back-end technologies. I'm excited about creating modern web applications that are as user-friendly as possible.</p>
         <a href="https://www.linkedin.com/in/sanjeevi-k-83a88022a/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
         </div>
       </div>
